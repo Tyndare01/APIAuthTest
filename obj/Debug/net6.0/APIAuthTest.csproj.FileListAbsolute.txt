@@ -76,3 +76,4 @@ C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\APIAuthTes
 C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\ref\APIAuthTest.dll
 C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\APIAuthTest.pdb
 C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\APIAuthTest.genruntimeconfig.cache
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
