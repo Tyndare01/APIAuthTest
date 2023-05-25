@@ -77,3 +77,12 @@ C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\ref\APIAut
 C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\APIAuthTest.pdb
 C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\obj\Debug\net6.0\APIAuthTest.genruntimeconfig.cache
 C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\BLL\obj\BLL.csproj.nuget.dgspec.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\BLL\obj\project.assets.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\BLL\obj\project.packagespec.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\DAL\obj\DAL.csproj.nuget.dgspec.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\DAL\obj\project.assets.json
+C:\Users\Jason\RiderProjects\APIAuthTest\APIAuthTest\bin\Debug\net6.0\DAL\obj\project.packagespec.json
